@@ -70,7 +70,6 @@
                 <version>${spring-boot.version}</version>
                 <configuration>
                     <mainClass>com.nippy.demo.DemoApplication</mainClass>
-                    <skip>true</skip>
                 </configuration>
                 <executions>
                     <execution>
